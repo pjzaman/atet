@@ -2,35 +2,35 @@
   {
     "Name": "Dekko Keer",
     "SKU": "AB-21-002",
-    "Cavities: 21,
+    "Cavities": 21,
     "Weight": 12,
     "CycleTime": 11,
     "SheetThickness": "36-37",
-    "SheetWeight: 0,
-    "SheetsPerPush: 3,
-    "Blades: 2
+    "SheetWeight": 0,
+    "SheetsPerPush": 3,
+    "Blades": 2
   },
   {
     "Name": "Two Chamber (Insaf)",
     "SKU": "AB-22-007",
-    "Cavities: 56,
+    "Cavities": 56,
     "Weight": 2,
     "CycleTime": 6.5,
     "SheetThickness": "20-21",
-    "SheetWeight: 255,
-    "SheetsPerPush: 3,
-    "Blades: 2
+    "SheetWeight": 255,
+    "SheetsPerPush": 3,
+    "Blades": 2
   },
   {
     "Name": "Kishowan",
     "SKU": "AB-21-007",
-    "Cavities: 24,
+    "Cavities": 24,
     "Weight": 10.8,
     "CycleTime": 11,
     "SheetThickness": "34-35",
-    "SheetWeight: 0,
-    "SheetsPerPush: 2,
-    "Blades: 2
+    "SheetWeight": 0,
+    "SheetsPerPush": 2,
+    "Blades": 2
   },
   {
     "Name": "Lunch Box (S) 6.5",
