@@ -168,7 +168,8 @@
    "Blades": 2
   },
   {"Name": "Burger Box with Lock",
-   "SKU": "AB-22-004","Cavities: 15,
+   "SKU": "AB-22-004",
+   "Cavities": 15,
    "Weight": 12,
    "CycleTime": 9,
    "SheetThickness": "22-23",
