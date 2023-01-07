@@ -88,13 +88,13 @@
   },
   {"Name": "Lunch Box (M)",
    "SKU": "AB-21-012",
-   "Cavities: 0,
+   "Cavities": 0,
    "Weight": 0,
    "CycleTime": 0,
    "SheetThickness": "0",
-   "SheetWeight: 0,
-   "SheetsPerPush: 4,
-   "Blades: 1
+   "SheetWeight": 0,
+   "SheetsPerPush": 4,
+   "Blades": 1
   },
   {"Name": "Lunch Box (M) Lock ",
    "SKU": "AB-22-003",
